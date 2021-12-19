@@ -50,7 +50,6 @@ Over the years I used several programming languages, frameworks and tools. I onl
 
 **Programming Languages**:
 
-&nbsp;
 <img title="Java" alt="Java" src="assets/java.png" width="35" height="40" />
 &nbsp;
 &nbsp;
@@ -121,8 +120,6 @@ Over the years I used several programming languages, frameworks and tools. I onl
 
 **Platforms/Ops**:
 
-&nbsp;
-&nbsp;
 <img title="Kubernetes" alt="Kubernetes" src="assets/kubernetes.png" width="50" height="40" />
 &nbsp;
 &nbsp;
@@ -140,8 +137,6 @@ Over the years I used several programming languages, frameworks and tools. I onl
 
 **Frameworks**
 
-&nbsp;
-&nbsp;
 <img title="Spring boot" alt="Spring boot" src="assets/springboot.png" width="70" height="40" />
 &nbsp;
 &nbsp;
@@ -149,9 +144,7 @@ Over the years I used several programming languages, frameworks and tools. I onl
 
 **Daily**:
 
-&nbsp;
-&nbsp;
-<img title="Git" alt="Git" src="assets/xubuntu.png" width="50" height="40" />
+<img title="Xubuntu" alt="Xubuntu" src="assets/xubuntu.png" width="50" height="40" />
 &nbsp;
 &nbsp;
 <img title="Intellij Idea" alt="Intellij Idea" src="assets/idea.png" width="50" height="40" />
