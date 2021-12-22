@@ -26,7 +26,6 @@ tend development
 * Can fulfill Lead or Senior Engineer roles
 * MSc in Computer Science (2008) 
 * BSc in Statistics (2004) 
-* Eligible to work in EU & Switzerland
 
 My interests are (I spend time thinking about):
 * Fact based decisions
