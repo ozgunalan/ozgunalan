@@ -2,7 +2,7 @@
 
 # hello stranger!
 
-<h3>I am a contractor/freelance software engineer with big data, ML and MLOps experience</h3>
+<h3>I am a freelance software/data engineer with ML & MLOps skills</h3>
 
 <br>
 <br>
@@ -14,17 +14,19 @@
 <details>
   <summary><b>about me</b></summary>
 
-I am experienced in designing and building backend, big data and machine learning (ML) solutions
-
-I have been professionally developing software since 2007. I hold a BSc in Statistics and MSc in Computer Science
-
-I have built systems using Java, Scala, Groovy, Kotlin, and Python. I am experienced in object-oriented programming, functional programming, test-driven development, multi-paradigm languages
-
-I have hands on experience in distributed computing environments and computing at scale (e.g. hadoop, nosql, cloud computing). I completed projects using AWS, GCP, Azure and PCF. I am comfortable with DevOps activities
-
-I can fulfil roles of Senior Engineer or Tech Lead within a team/organization
-
-I am a lifelong learner. I enjoy sharing my knowledge and mentoring
+* 15+ years as a software engineer and keep learning
+* Expert in building backend, big data and, ML systems
+* Built systems with Java, Scala, Python, Groovy, Kotlin
+* Cloud experience with GCP, Azure, AWS, PCF, Tanzu
+* Experienced in distributed computing (Hadoop, NoSQL, Spark, Kubernetes)
+* Experienced in OOP, FP and TDD
+* Experienced in Agile methodologies
+* Comfortable with DevOps duties and occasional fron-
+tend development
+* Can fulfill Lead or Senior Engineer roles
+* MSc in Computer Science (2008) 
+* BSc in Statistics (2004) 
+* Eligible to work in EU & Switzerland
 
 My interests are (I spend time thinking about):
 * Fact based decisions
