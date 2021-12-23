@@ -14,10 +14,10 @@
 <details>
   <summary><b>about me</b></summary>
 
-* 15+ years as a software engineer and keep learning
-* Expert in building backend, big data and, ML systems
+* 15+ years as a software engineer and I keep on learning
+* Expert in building backend, big data and ML systems
 * Built systems with Java, Scala, Python, Groovy, Kotlin
-* Cloud experience with GCP, Azure, AWS, PCF, Tanzu
+* Cloud experience with GCP, Azure, AWS, PCF and WmWare Tanzu
 * Experienced in distributed computing (Hadoop, NoSQL, Spark, Kubernetes)
 * Experienced in OOP, FP and TDD
 * Experienced in Agile methodologies
@@ -208,8 +208,6 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--- Maybe later
-https://c.tenor.com/vRhSpkeqingAAAAC/gothguy-it-crowd.gif
-https://c.tenor.com/FpMv-YlXlS4AAAAd/the-it-crowd-huh.gif
 
 - 👋 Hi, I’m @ozgunalan
 - 👀 I’m interested in ...
