@@ -37,8 +37,6 @@ Some values/perspectives I have:
 * I am a fan of Richard Feynman. As a result I am against cargo cult science (or development)
 * I get more satisfaction from deleting code rather than writing it. 
 
-Then you may ask why are you here at all? Well... 
-
 <img align="center" height="360" width="600" src="assets/le-feu-follet-scene.png" alt="anyway, we fade away fast" />
 </details>
 
