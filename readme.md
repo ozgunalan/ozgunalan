@@ -18,7 +18,7 @@
 * Expert in building backend, big data, and ML systems
 * Built systems with Java, Scala, Python, Groovy, Kotlin
 * Cloud experience with GCP, Azure, AWS, PCF and WMWare Tanzu
-* Experienced in distributed computing (Hadoop, NoSQL, Spark, Kubernetes)
+* Experienced in distributed computing (Hadoop, NoSQL, Spark, Kubernetes, Kafka)
 * Experienced in OOP, FP and TDD
 * Experienced in Agile methodologies
 * Comfortable with DevOps duties and occasional frontend development
