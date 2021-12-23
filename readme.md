@@ -89,6 +89,8 @@ Over the years I used several programming languages, frameworks and tools. I onl
 &nbsp;
 <img title="H2O" alt="H2O" src="assets/h2o.jpg" width="70" height="40" />
 
+<img title="Vowpal Wabbit" alt="Vowpal Wabbit" src="assets/vowpal-wabbit.png" width="60" height="40" />
+
 
 **Sql/NoSql**:
 
@@ -130,8 +132,15 @@ Over the years I used several programming languages, frameworks and tools. I onl
 <img title="Pivotal Cloud Foundry" alt="Pivotal Cloud Foundry" src="assets/pivotal-cloud-foundry.png" width="50" height="40" />
 &nbsp;
 &nbsp;
+<img title="VMWare Tanzu" alt="VMWare Tanzu" src="assets/vmware-tanzu.png" width="80" height="40" />
+&nbsp;
+&nbsp;
+<img title="Rancher" alt="Rancher" src="assets/rancher.png" width="80" height="40" />
+&nbsp;
 <img title="Jenkins" alt="Jenkins" src="assets/jenkins.png" width="120" height="40" />
 <img title="Bamboo" alt="Bamboo" src="assets/bamboo.png" width="70" height="40" />
+<img title="Vault" alt="Vault" src="assets/vault.png" width="60" height="40" />
+<img title="Nomad" alt="Nomad" src="assets/nomad.png" width="120" height="40" />
 
 **Frameworks**
 
