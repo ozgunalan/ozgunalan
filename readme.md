@@ -15,9 +15,9 @@
   <summary><b>about me</b></summary>
 
 * 15+ years as a software engineer, and I keep on learning
-* Expert in building backend, big data and ML systems
+* Expert in building backend, big data, and ML systems
 * Built systems with Java, Scala, Python, Groovy, Kotlin
-* Cloud experience with GCP, Azure, AWS, PCF and WmWare Tanzu
+* Cloud experience with GCP, Azure, AWS, PCF and WMWare Tanzu
 * Experienced in distributed computing (Hadoop, NoSQL, Spark, Kubernetes)
 * Experienced in OOP, FP and TDD
 * Experienced in Agile methodologies
