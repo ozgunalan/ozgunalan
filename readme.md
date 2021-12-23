@@ -14,7 +14,7 @@
 <details>
   <summary><b>about me</b></summary>
 
-* 15+ years as a software engineer and I keep on learning
+* 15+ years as a software engineer, and I keep on learning
 * Expert in building backend, big data and ML systems
 * Built systems with Java, Scala, Python, Groovy, Kotlin
 * Cloud experience with GCP, Azure, AWS, PCF and WmWare Tanzu
