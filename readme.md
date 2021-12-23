@@ -21,8 +21,7 @@
 * Experienced in distributed computing (Hadoop, NoSQL, Spark, Kubernetes)
 * Experienced in OOP, FP and TDD
 * Experienced in Agile methodologies
-* Comfortable with DevOps duties and occasional fron-
-tend development
+* Comfortable with DevOps duties and occasional frontend development
 * Can fulfill Lead or Senior Engineer roles
 * MSc in Computer Science (2008) 
 * BSc in Statistics (2004) 
