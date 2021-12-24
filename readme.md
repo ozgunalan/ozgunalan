@@ -19,7 +19,8 @@
 * Built systems with Java, Scala, Python, Groovy, Kotlin
 * Cloud experience with GCP, Azure, AWS, PCF and WMWare Tanzu
 * Experienced in distributed computing (Hadoop, NoSQL, Spark, Kubernetes, Kafka)
-* Experienced in OOP, FP and TDD
+* Experienced in OOP and FP
+* An avid practitioner of TDD
 * Experienced in Agile methodologies
 * Comfortable with DevOps duties and occasional frontend development
 * Can fulfill Lead or Senior Engineer roles
