@@ -15,17 +15,17 @@
 Senior data engineer with twenty years of building production data & ML platforms. A few things I'm proud of: sales forecasting at **Bol.com** (accuracy ~65% → 80%+), an ML ranking model at **eBay** (+20% dealer conversion), and a ~**30% Databricks compute-cost cut** at **Bridgewater Associates**. I'm a hands-on individual contributor who also shapes architecture and engineering standards — lately extending into applied LLMs and agentic pipelines.
 
 **Quick facts**
-* **Leadership** — mentoring, technical hiring, driving engineering best practices across teams
-* **Languages** — Java, Scala, Python, Groovy, Kotlin
-* **Cloud** — GCP, Azure, AWS, VMware Tanzu
+* I've mentored engineers, done plenty of technical hiring, and nudged teams toward better engineering habits.
+* Most days I'm in Java, Scala, or Python — with Groovy and Kotlin in the rotation.
+* At home across GCP, Azure, and AWS — and VMware Tanzu, if that's your shop.
 
 **What I actually care about**
-* fact-based decisions & data-intensive systems
-* bringing ML to production — MLOps, tooling, and practice
-* not being religious about any stack; I care about problems & domains
-* people and culture over tech & tools
-* I'm a Feynman fan — allergic to cargo-cult engineering
-* I get more satisfaction deleting code than writing it
+* I like data-intensive systems — and making decisions from data, not vibes.
+* I like bringing ML to production: the MLOps, the tooling, and all the boring-but-necessary bits in between.
+* I'm not religious about any stack — the problem and the domain come first, which tool comes second.
+* I care about people and culture more than tech — the stack is just the vehicle.
+* I'm a big Richard Feynman fan, which makes me allergic to cargo-cult engineering.
+* And yes — I get more satisfaction deleting code than writing it.
 
 🎓 MSc Computer Science (2008) · BSc Statistics (2004)
 
