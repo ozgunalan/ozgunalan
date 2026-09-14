@@ -4,7 +4,7 @@
 
 <p align="center" style="font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;">I'm a senior data engineer. I build data platforms and ML/AI systems.</p>
 
-<p align="center" style="font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;">📍 Ticino, CH &nbsp;·&nbsp; open to remote roles here or anywhere</p>
+<p align="center" style="font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;">📍 Ticino, CH &nbsp;·&nbsp; open to remote roles</p>
 
 <br>
 <br>
