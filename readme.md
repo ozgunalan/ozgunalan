@@ -1,12 +1,10 @@
-<img align="right" style="padding: 10px; max-width: 280px;" src="https://c.tenor.com/vRhSpkeqingAAAAC/gothguy-it-crowd.gif">
+<p align="center"><img style="max-width: 220px;" src="https://c.tenor.com/vRhSpkeqingAAAAC/gothguy-it-crowd.gif"></p>
 
-<p style="font-size: 2.4rem; font-weight: 700; line-height: 1.1; font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; margin: 0;">Hello stranger!</p>
+<p align="center" style="font-size: 2.4rem; font-weight: 700; line-height: 1.1; font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; margin: 0;">hello stranger!</p>
 
-<p style="font-weight: 500; font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;">I am senior data engineer, expert in &middot; Data Platforms &middot; Distributed Systems &middot; Applied AI</p>
+<p align="center" style="font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;">I'm a senior data engineer. I build data platforms and distributed systems, and I've been deep in applied AI lately.</p>
 
-<p style="font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;">
-  📍 Ticino, Switzerland &nbsp;·&nbsp; Open to remote roles in Switzerland or globally
-</p>
+<p align="center" style="font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;">📍 Ticino, CH &nbsp;·&nbsp; open to remote roles here or anywhere</p>
 
 <br>
 <br>
@@ -14,7 +12,7 @@
 <details style="font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;">
   <summary><b>about me</b></summary>
 
-Senior data engineer with twenty years of building production data & ML platforms. A few things I'm proud of: sales forecasting at **Bol.com** (accuracy ~65% → 80%+), an ML ranking model at **eBay** (+20% dealer conversion), and a ~**30% Databricks compute-cost cut** in my current role. I'm a hands-on individual contributor who also shapes architecture and engineering standards — lately extending into applied LLMs and agentic pipelines.
+Senior data engineer with twenty years of building production data & ML platforms. A few things I'm proud of: sales forecasting at **Bol.com** (accuracy ~65% → 80%+), an ML ranking model at **eBay** (+20% dealer conversion), and a ~**30% Databricks compute-cost cut** at **Bridgewater Associates**. I'm a hands-on individual contributor who also shapes architecture and engineering standards — lately extending into applied LLMs and agentic pipelines.
 
 **Quick facts**
 * **Leadership** — mentoring, technical hiring, driving engineering best practices across teams
