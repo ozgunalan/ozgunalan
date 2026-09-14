@@ -1,11 +1,11 @@
 <img align="right" style="padding: 10px; max-width: 280px;" src="https://c.tenor.com/vRhSpkeqingAAAAC/gothguy-it-crowd.gif">
 
-<p style="font-size: 2.4rem; font-weight: 700; line-height: 1.1; font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; margin: 0;">hello stranger!</p>
+<p style="font-size: 2.4rem; font-weight: 700; line-height: 1.1; font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; margin: 0;">Hello stranger!</p>
 
-<h3 style="font-weight: 500; font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;">Senior Data Engineer &middot; Data Platforms &middot; Distributed Systems &middot; Applied AI</h3>
+<p style="font-weight: 500; font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;">I am senior data engineer, expert in &middot; Data Platforms &middot; Distributed Systems &middot; Applied AI</p>
 
 <p style="font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;">
-  📍 Ticino, Switzerland &nbsp;·&nbsp; open to remote roles in Switzerland or globally
+  📍 Ticino, Switzerland &nbsp;·&nbsp; Open to remote roles in Switzerland or globally
 </p>
 
 <br>
