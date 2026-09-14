@@ -1,8 +1,8 @@
 <p align="center"><img style="max-width: 220px;" src="https://c.tenor.com/vRhSpkeqingAAAAC/gothguy-it-crowd.gif"></p>
 
-<p align="center" style="font-size: 2.4rem; font-weight: 700; line-height: 1.1; font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; margin: 0;">hello stranger!</p>
+<p align="center" style="font-size: 2.4rem; font-weight: 700; line-height: 1.1; font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; margin: 0;">Hello stranger!</p>
 
-<p align="center" style="font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;">I'm a senior data engineer. I build data platforms and distributed systems, and I've been deep in applied AI lately.</p>
+<p align="center" style="font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;">I'm a senior data engineer. I build data platforms and ML/AI systems.</p>
 
 <p align="center" style="font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;">📍 Ticino, CH &nbsp;·&nbsp; open to remote roles here or anywhere</p>
 
